@@ -1,1 +1,1 @@
-# rbac
+# Kubernetes RBAC comparison script
